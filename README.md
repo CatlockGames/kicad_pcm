@@ -1,2 +1,2 @@
-# kicad_lib
-Catlock KiCad Library
+# kicad_pcm
+Catlock KiCad PCM Repository
