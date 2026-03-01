@@ -1,0 +1,30 @@
+{
+    "packages": [
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "name": "Catlock KiCad Component Library",
+            "description": "Custom component library with symbols, footprints, and 3D models.",
+            "description_full": "Custom component library with symbols, footprints, and 3D models.",
+            "identifier": "org.catlock.kicad_library",
+            "type": "library",
+            "author": {
+                "name": "Catlock team",
+                "contact": {
+                    "github": "https://github.com/CatlockGames",
+                    "email": "catlock.games@gmail.com"
+                }
+            },
+            "license": "MIT",
+            "resources": {
+                "Github": "https://github.com/CatlockGames/kicad_pcm"
+            },
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "status": "stable",
+                    "kicad_version": "9.0"
+                }
+            ]
+        }
+    ]
+}

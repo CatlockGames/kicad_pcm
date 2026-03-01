@@ -1,0 +1,15 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "name": "Catlock team",
+        "contact": {
+            "github": "https://github.com/CatlockGames",
+            "email": "catlock.games@gmail.com"
+        }
+    },
+    "name": "Catlock KiCad PCM Repository",
+    "packages": {
+        "url": "https://raw.githubusercontent.com/CatlockGames/kicad_pcm/refs/heads/main/packages.json",
+        "update_timestamp": 1772401112
+    }
+}
