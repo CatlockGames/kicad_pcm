@@ -24,7 +24,7 @@
                     "status": "stable",
                     "kicad_version": "9.0",
                     "download_url": "https://github.com/CatlockGames/kicad-library/releases/download/v1.0.0-test/Catlock_kicad-library_v1.0.0-test.zip",
-                    "download_sha256": "6ac24e8e495b8c084e9da77a7a38961c74226c63e7df77ef8fc5ac9fc4a7db2c",
+                    "download_sha256": "6ac24e8e495b8c084e9da77a7a38961c74226c63e7df77ef8fc5ac9fc4a7db2c"
                 }
             ]
         }
