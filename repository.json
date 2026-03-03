@@ -10,6 +10,6 @@
     "name": "Catlock KiCad PCM Repository",
     "packages": {
         "url": "https://raw.githubusercontent.com/CatlockGames/kicad-pcm/refs/heads/main/packages.json",
-        "update_timestamp": 1772401112
+        "update_timestamp": 1772521436
     }
 }
